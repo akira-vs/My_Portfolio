@@ -137,7 +137,7 @@ import {
         },
       ],
       image: Akira,
-      source_code_link: "https://www.instagram.com/manfred_vs/",
+      source_code_link: "https://instagram.com/manfred_vs?igshid=MzRlODBiNWFlZA==",
     },
     {
       name: "Toon art",
@@ -150,7 +150,7 @@ import {
         },
       ],
       image: Jader,
-      source_code_link: "https://www.instagram.com/manfred_vs/",
+      source_code_link: "https://instagram.com/manfred_vs?igshid=MzRlODBiNWFlZA==",
     },
     {
       name: "Akatsuki Rings",
@@ -161,7 +161,7 @@ import {
         },
       ],
       image: Rings,
-      source_code_link: "https://www.instagram.com/manfred_vs/",
+      source_code_link: "https://instagram.com/manfred_vs?igshid=MzRlODBiNWFlZA==",
     },
     {
       name: "Kaneki",
@@ -172,7 +172,7 @@ import {
         },
       ],
       image: amit,
-      source_code_link: "https://www.instagram.com/manfred_vs/",
+      source_code_link: "https://instagram.com/manfred_vs?igshid=MzRlODBiNWFlZA==",
     },
     {
       name: "Flowers",
@@ -183,7 +183,7 @@ import {
         },
       ],
       image: dp,
-      source_code_link: "https://www.instagram.com/manfred_vs/",
+      source_code_link: "https://instagram.com/manfred_vs?igshid=MzRlODBiNWFlZA==",
     },
     {
       name: "Obito",
@@ -198,7 +198,7 @@ import {
         },
       ],
       image: Obito,
-      source_code_link: "https://www.instagram.com/manfred_vs/",
+      source_code_link: "https://instagram.com/manfred_vs?igshid=MzRlODBiNWFlZA==",
     },
     {
       name: "Moon",
@@ -209,7 +209,7 @@ import {
         },
       ],
       image: Moon,
-      source_code_link: "https://www.instagram.com/manfred_vs/",
+      source_code_link: "https://instagram.com/manfred_vs?igshid=MzRlODBiNWFlZA==",
     },
     {
       name: "Eren",
@@ -220,7 +220,7 @@ import {
         },
       ],
       image: Eren,
-      source_code_link: "https://www.instagram.com/manfred_vs/",
+      source_code_link: "https://instagram.com/manfred_vs?igshid=MzRlODBiNWFlZA==",
     },
   ];
   
